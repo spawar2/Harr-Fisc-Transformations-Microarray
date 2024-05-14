@@ -1,4 +1,4 @@
-# Harr-Fisc-Transformations-Microarray
+# Harr-Fisc-Transformations-Microarray collaboration with Dr. Rinehart, Western Kentucky University  https://www.wku.edu/artp/webpages/bisc_dir.php
 [R]
 [Paper Link:](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-S7-A19)
 
