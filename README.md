@@ -5,4 +5,4 @@
 <img width="284" alt="Bioinformatics" src="https://github.com/spawar2/Harr-Fisc-Transformations-Microarray/assets/25118302/218a190c-6681-4df8-ab01-2d48b0595273">
 ![wku](https://github.com/spawar2/Harr-Fisc-Transformations-Microarray/assets/25118302/95631243-6f6b-4005-aba5-06375562f02a)
 
-Western Kentucky University, Department of Biology, 112th Sigma Xi Annual Meeting & International Research Conference, Raleigh, North Carolina, USA, Nov 2011. Github  [*2011: 4][**15].
+Western Kentucky University, Department of Biology, 112th Sigma Xi Annual Meeting & International Research Conference, Raleigh, North Carolina, USA, Nov 2011. Github,  [*2011: 4],[**15].
