@@ -6,6 +6,7 @@
 ![wku](https://github.com/spawar2/Harr-Fisc-Transformations-Microarray/assets/25118302/95631243-6f6b-4005-aba5-06375562f02a)
 Statistical analysis of microarray gene expression data from a mouse model of toxoplasmosis, Shrikant Pawar, Dr. Claire Rinehart & Dr. Cheryl Davis, Publication: BioMed Central BMC: Bioinformatics (Publication date: August 1), collaboration with Dr. Rinehart, Western Kentucky University, Bowling Green, USA. IF=3.1.Github, Article link, [Cited times: 7]^^^^[**2012:13, 16, 17, 18, 20, 21, 22]. 1, 2, 3, 4, 5. DOI: https://doi.org/10.1186/1471-2105-12-S7-A19, Issue: 7, Volume: 12, Pages: A19.
 Western Kentucky University, Department of Biology, 112th Sigma Xi Annual Meeting & International Research Conference, Raleigh, North Carolina, USA, 1 November, 2011. Github,  [*2011: 4],[**15].
+^^^^Western Kentucky University, Department of Biology, Bowling Green, Kentucky, USA.
 ††Travel award: Western Kentucky University, Department of Biology, Bowling Green, Kentucky, USA, November 21, 2011. Github,  [*2011: 4], [**15].
 https://www.wku.edu/biology/ https://www.functionalfoodscenter.net/11th_International_conference_-_USD.html
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
